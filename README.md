@@ -1,4 +1,4 @@
-# flutter_readmore
+# Flutter ReadMore
 
 A new Flutter project.
 
