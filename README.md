@@ -1,6 +1,6 @@
 # Flutter ReadMore
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/L-cYOCiFLPE/maxresdefault.jpg)](https://www.youtube.com/watch?v=L-cYOCiFLPE)
 
 ## Getting Started
 
